@@ -3,7 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3omarbadr&label=Profile%20views&color=0e75b6&style=flat" alt="3omarbadr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3omarbadr" alt="3omarbadr" /></a> </p>
+<details align="center"> 
+  <summary>GitHub Trophies 🏆</summary>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=IsratIJK&theme=gruvbox"/>
+  </a>
+</p>
+</details>
 
 - 🔭 I’m currently working on [Jamal](https://play.google.com/store/apps/details?id=com.geeksjo.jamalApp&hl=en_US&gl=US)
 
