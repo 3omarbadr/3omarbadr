@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Omar Badr</h1>
+<h1 align="center"><b>Hi , I'm Omar Badr </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3omarbadr&label=Profile%20views&color=0e75b6&style=flat" alt="3omarbadr" /> </p>
@@ -12,6 +12,12 @@
 </p>
 </details>
 
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
+<br>
+
 - 🔭 I’m currently working on [Jamal](https://play.google.com/store/apps/details?id=com.geeksjo.jamalApp&hl=en_US&gl=US)
 
 - 🌱 I’m currently learning **Symfony, Yii, Database**
@@ -22,8 +28,10 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1h6DN4Mwk8LuNRh0IRM9qSt8TCKr77Zb_](https://drive.google.com/drive/u/0/folders/1h6DN4Mwk8LuNRh0IRM9qSt8TCKr77Zb_)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<br/>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
+<p align="center">
 <a href="https://dev.to/3omarbadr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="3omarbadr" height="30" width="40" /></a>
 <a href="https://twitter.com/3omarbadr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="3omarbadr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/3omarbadr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="3omarbadr" height="30" width="40" /></a>
