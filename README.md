@@ -76,7 +76,5 @@
 ----
 	
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3omarbadr&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="3omarbadr" /></a> </p>
-
-[![@7oskaa's Holopin board](https://holopin.io/api/user/board?user=3omarbadr)](https://holopin.io/@3omarbadr)
 	
 </details>
