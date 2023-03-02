@@ -12,9 +12,9 @@
 
 - 🔭 I’m currently working on [Dopa](https://play.google.com/store/apps/details?id=com.geeksjo.dopa2)
 
-- 🌱 I’m currently learning **Symfony, Yii, Database**
+- 🌱 I’m currently learning **React, Symfony, Database**
 
-- 💬 Ask me about **PHP, Laravel, MySQL, OOP, VueJS, ReactJs**
+- 💬 Ask me about **PHP, Laravel, MySQL, OOP, Js, VueJS, React**
 
 - 📫 How to reach me **omarbadr167@gmail.com**
 
