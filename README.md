@@ -24,11 +24,11 @@
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
-<a href="https://dev.to/3omarbadr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="3omarbadr" height="30" width="40" /></a>
-<a href="https://twitter.com/3omarbadr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="3omarbadr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/3omarbadr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="3omarbadr" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14984910" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14984910" height="30" width="40" /></a>
-<a href="https://fb.com/3omarbadr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="3omarbadr" height="30" width="40" /></a>
+<a href="https://dev.to/3omarbadr" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="3omarbadr" height="30" width="40" /></a>
+<a href="https://twitter.com/3omarbadr" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="3omarbadr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/3omarbadr" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="3omarbadr" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14984910" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14984910" height="30" width="40" /></a>
+<a href="https://fb.com/3omarbadr" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="3omarbadr" height="30" width="40" /></a>
 </p>
 <br>
 <h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My working tools...</h3>
@@ -66,7 +66,7 @@
 
 ----
 	
-[![7oSkaa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=3omarbadr&theme=github	)](https://github.com/3omarbadr/github-readme-activity-graph)
+[![3omarbadr's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=3omarbadr&theme=github	)](https://github.com/3omarbadr/github-readme-activity-graph)
 
  
 </details>
