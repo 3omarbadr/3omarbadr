@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **omarbadr167@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1Zap2QdCoitmCyJ0yelrceWTX8exiIdr1/view" target="_blank">Omar Badr Resume</a>
+- 📄 Know about my experiences [OmarBadrResume](https://drive.google.com/file/d/1Zap2QdCoitmCyJ0yelrceWTX8exiIdr1/view)
 
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
