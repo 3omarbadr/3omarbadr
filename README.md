@@ -10,7 +10,7 @@
 
 <br>
 
-- 🔭 I’m currently working on [Dopa](https://play.google.com/store/apps/details?id=com.geeksjo.dopa2)
+- 🔭 I’m currently working on [Convertedin](https://www.converted.in/)
 
 - 🌱 I’m currently learning **React, Symfony, Database**
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **omarbadr167@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1h6DN4Mwk8LuNRh0IRM9qSt8TCKr77Zb_](https://drive.google.com/drive/u/0/folders/1h6DN4Mwk8LuNRh0IRM9qSt8TCKr77Zb_)
+- 📄 Know about my experiences [Omar Badr Resume](https://drive.google.com/file/d/1Zap2QdCoitmCyJ0yelrceWTX8exiIdr1/view)
 
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
