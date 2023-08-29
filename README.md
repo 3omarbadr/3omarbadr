@@ -62,15 +62,6 @@
   </p>
 </details>
 
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-
-----
-	
-[![3omarbadr's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=3omarbadr&theme=github	)](https://github.com/3omarbadr/github-readme-activity-graph)
-
- 
-</details>
-
 <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
 
 ----
