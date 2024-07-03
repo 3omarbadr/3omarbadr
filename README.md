@@ -36,10 +36,9 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
   </a> 
-  <a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/25181517/276620225-afcf1c98-544e-41fb-bf44-edba5e62809a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjAwMzQ1NjAsIm5iZiI6MTcyMDAzNDI2MCwicGF0aCI6Ii8yNTE4MTUxNy8yNzY2MjAyMjUtYWZjZjFjOTgtNTQ0ZS00MWZiLWJmNDQtZWRiYTVlNjI4MDlhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzAzVDE5MTc0MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRiMThhOTEzNzQ1YmViNWFmYWY1OWIwODUwODkyZjUyNWQ4OTIxNzM0MDlkZGExYmVmMTAxMzUxMTBmMjgxMzQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.JHKRXjQcojtTU2N4gpl-gcnvKBdZY372asZFquvb39o"><img height="50" src="https://private-user-images.githubusercontent.com/25181517/276620225-afcf1c98-544e-41fb-bf44-edba5e62809a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjAwMzQ1NjAsIm5iZiI6MTcyMDAzNDI2MCwicGF0aCI6Ii8yNTE4MTUxNy8yNzY2MjAyMjUtYWZjZjFjOTgtNTQ0ZS00MWZiLWJmNDQtZWRiYTVlNjI4MDlhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzAzVDE5MTc0MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRiMThhOTEzNzQ1YmViNWFmYWY1OWIwODUwODkyZjUyNWQ4OTIxNzM0MDlkZGExYmVmMTAxMzUxMTBmMjgxMzQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.JHKRXjQcojtTU2N4gpl-gcnvKBdZY372asZFquvb39o" style="max-width: 100%;"></a>
-  <a href="https://symfony.com" target="_blank" rel="noreferrer">
-    <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> 
-  </a>
+<a href="https://www.laravel.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="40"/> 
+  </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a> 
