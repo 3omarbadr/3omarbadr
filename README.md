@@ -9,8 +9,6 @@
 
 ## 🚀 About Me
 
-<img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/programming.svg" width="250px">
-
 - 🔭 Currently working at [Convertedin](https://www.converted.in/)
 - 🌱 Learning **Go lang, Symfony, and Database optimization**
 - 💬 Ask me about **PHP, Laravel, Symfony, MySQL, OOP, Docker**
