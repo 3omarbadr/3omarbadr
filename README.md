@@ -91,6 +91,6 @@
 
 <div align="center">
   
-  [![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+  ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark)
   
 </div>
