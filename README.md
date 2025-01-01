@@ -60,37 +60,6 @@
 
 <div align="center">
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=3omarbadr&theme=tokyonight_duo)](https://git.io/streak-stats)
-  
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<details>
-  <summary>📈 Profile Stats</summary>
-  <br>
-  <div align="center">
-    <img alt="Omar Badr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=3omarbadr&show_icons=true&count_private=true&theme=tokyonight" height="200px"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=3omarbadr&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="3omarbadr" height="200px"/>
-  </div>
-  <br>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
-
-<details>
-  <summary>🏆 GitHub Trophies</summary>
-  <br>
-  <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=3omarbadr&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="3omarbadr" />
-  </div>
-</details>
-
----
-
-<div align="center">
-  
   ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark)
   
 </div>
