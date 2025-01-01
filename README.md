@@ -9,9 +9,8 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working at [Convertedin](https://www.converted.in/)
-- 🌱 Learning **Go lang, Symfony, and Database optimization**
-- 💬 Ask me about **PHP, Laravel, Symfony, MySQL, OOP, Docker**
+- 🌱 Learning **NodeJS Golang**
+- 💬 Ask me about **PHP, Laravel, MySQL, OOP, Docker**
 - 📫 Reach me at: **omarbadr167@gmail.com**
 - 📄 [My Resume](https://drive.google.com/file/d/1Zap2QdCoitmCyJ0yelrceWTX8exiIdr1/view)
 
