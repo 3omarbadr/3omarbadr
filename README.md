@@ -1,7 +1,7 @@
 # <div align="center">👋 Hi, I'm Omar Badr <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></div>
 
 <div align="center">
-  <h3>Passionate Software Engineer</h3>
+  <h3>Software Engineer | Backend · Forward Deployed Engineer</h3>
   <img src="https://komarev.com/ghpvc/?username=3omarbadr&label=Profile%20views&color=0e75b6&style=flat" alt="3omarbadr" />
 </div>
 
@@ -9,10 +9,17 @@
 
 ## 🚀 About Me
 
-- 🌱 Learning **NodeJS Golang**
 - 💬 Ask me about **PHP, Laravel, MySQL, OOP, Docker**
-- 📫 Reach me at: **omarbadr167@gmail.com**
 - 📄 [My Resume](https://drive.google.com/file/d/1Zap2QdCoitmCyJ0yelrceWTX8exiIdr1/view)
+
+---
+
+## 🧱 What I Build
+
+- Payment and checkout systems across multiple gateways, with webhooks, refunds and wallet ledgers
+- Fraud and risk controls: velocity rules, blacklists, risk scoring and review holds
+- Domain-driven Laravel backends with Filament admin panels, plus Next.js / Vue storefronts
+- Deploy pipelines and AWS infrastructure: CI/CD, Nginx, Redis and Docker
 
 ---
 
@@ -36,6 +43,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
