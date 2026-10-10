@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Node.js, PHP, Laravel, MySQL**
 - [![Connect with me on LinkedIn](https://img.shields.io/badge/Connect_with_me-LinkedIn-0A66C2?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NSAyMC40NWgtMy41NXYtNS41N2MwLTEuMzMtLjAzLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMiAyLjA2IDIuMDYgMCAwIDEgMCA0LjEyek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1eiIvPjwvc3ZnPg==)](https://linkedin.com/in/3omarbadr)
-- 📄 [My Resume](https://drive.google.com/file/d/1Zap2QdCoitmCyJ0yelrceWTX8exiIdr1/view)
+- [![View my Resume](https://img.shields.io/badge/View_my-Resume-34A853?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Zap2QdCoitmCyJ0yelrceWTX8exiIdr1/view)
 
 ---
 
