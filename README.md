@@ -14,15 +14,6 @@
 
 ---
 
-## 🧱 What I Build
-
-- Payment and checkout systems across multiple gateways, with webhooks, refunds and wallet ledgers
-- Fraud and risk controls: velocity rules, blacklists, risk scoring and review holds
-- Domain-driven Laravel backends with Filament admin panels, plus Next.js / Vue storefronts
-- Deploy pipelines and AWS infrastructure: CI/CD, Nginx, Redis and Docker
-
----
-
 ## 🤝 Connect with Me
 
 <div align="center">
@@ -58,6 +49,16 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 </div>
+
+---
+
+
+## 🧱 What I Build
+
+- Payment and checkout systems across multiple gateways, with webhooks, refunds and wallet ledgers
+- Fraud and risk controls: velocity rules, blacklists, risk scoring and review holds
+- Domain-driven Laravel backends with Filament admin panels, plus Next.js / Vue storefronts
+- Deploy pipelines and AWS infrastructure: CI/CD, Nginx, Redis and Docker
 
 ---
 
