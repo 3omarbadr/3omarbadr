@@ -9,8 +9,8 @@
 
 ## 🚀 About Me
 
-- 💬 Ask me about **Node.js, PHP, Laravel, MySQL, OOP, Docker**
-- 🤝 Connect with me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/3omarbadr)
+- 💬 Ask me about **Node.js, PHP, Laravel, MySQL**
+- 🤝 Connect with me: <a href="https://linkedin.com/in/3omarbadr"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 - 📄 [My Resume](https://drive.google.com/file/d/1Zap2QdCoitmCyJ0yelrceWTX8exiIdr1/view)
 
 ---
