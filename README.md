@@ -1,7 +1,7 @@
 # <div align="center">👋 Hi, I'm Omar Badr <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></div>
 
 <div align="center">
-  <h3>Software Engineer | Backend · Forward Deployed Engineer</h3>
+  <h3>Software Engineer | Backend Engineer - Product Engineer - Forward Deployed Engineer</h3>
   <img src="https://komarev.com/ghpvc/?username=3omarbadr&label=Profile%20views&color=0e75b6&style=flat" alt="3omarbadr" />
 </div>
 
